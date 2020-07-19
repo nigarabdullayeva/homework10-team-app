@@ -3,7 +3,8 @@
 ## Link for the deployed app and video
 
 * https://nigarabdullayeva.github.io/homework10-team-app/
-* https://drive.google.com/file/d/1hakxVAVKjdjMEKHsxp_kDGpmNZG_nIj3/view?usp=sharing
+
+* https://drive.google.com/file/d/1alzSOifnpdfnEKB8ZMgIPZhr-gXClZG7/view?usp=sharing 
 
 ### App description 
 In this project I have created a generator for the teams
