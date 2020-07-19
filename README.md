@@ -14,4 +14,4 @@ By answering questions website generate a card with the team members and their i
 In this project I have used node modules package, package json,  inquirer, fs. 
 
 ### Test 
-Before deployed code, I have run a npm test . 
+Before deploying code, I have run a npm test . 
